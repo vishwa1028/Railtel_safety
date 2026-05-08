@@ -240,7 +240,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-Yelakanti Neeha
+Simhadri Vishwathma
 
 Built as an experimental railway safety monitoring and AI-based alert system project. :contentReference[oaicite:0]{index=0}
 
